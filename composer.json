@@ -1,0 +1,17 @@
+{
+  "name": "suliang/top-sdk",
+  "description": "淘宝SDK",
+  "authors": [
+    {
+      "name": "suliang",
+      "email": "suliang20@163.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "TopSDK\\": "src/"
+    }
+  }
+}
