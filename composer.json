@@ -11,8 +11,8 @@
   "minimum-stability": "dev",
   "require": {},
   "autoload": {
-    "psr-4": {
-      "top-sdk\\": "src/"
-    }
+    "files": [
+      "src/TopSdk.php"
+    ]
   }
 }
