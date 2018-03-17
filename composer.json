@@ -1,11 +1,11 @@
 {
-  "name": "suliang/top-sdk",
+  "name": "syw0602/top-sdk",
   "description": "淘宝SDK",
   "license": "MIT",
   "authors": [
     {
-      "name": "suliang",
-      "email": "suliang20@163.com"
+      "name": "syw0602",
+      "email": "syw0602@gmail.com"
     }
   ],
   "minimum-stability": "stable",
